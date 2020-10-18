@@ -1,3 +1,12 @@
-# django-blog
+# Pipenv instructions
 
-Demo project for learning django
+## Adding a dependency
+`pipenv install <name_of_package>`
+
+## Locking 
+`pipenv lock` 
+
+## Accessing venv
+`pipenv shell` 
+#### OR
+`pipenv run <command>`
